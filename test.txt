@@ -1,1 +1,3 @@
 this is a sample repository.
+
+now i've made a change in "git" repo.
